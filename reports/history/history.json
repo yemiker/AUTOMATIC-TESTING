@@ -1,0 +1,2536 @@
+{
+  "ef1ee5813809de529eefda6f57dc69e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 64,
+      "unknown" : 0,
+      "total" : 68
+    },
+    "items" : [ {
+      "uid" : "c3274307f2e6718b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/c3274307f2e6718b",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_101.0.4951 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024711F83DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "time" : {
+        "start" : 1653435477599,
+        "stop" : 1653435477599,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "25fd366b98bcf9e3",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/25fd366b98bcf9e3",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_101.0.4951 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024711F83DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "time" : {
+        "start" : 1653435477599,
+        "stop" : 1653435477599,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d21857a31327792a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/d21857a31327792a",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_101.0.4951 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024711F83DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "time" : {
+        "start" : 1653435477599,
+        "stop" : 1653435477599,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ed3b09e25aee20da",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/ed3b09e25aee20da",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_101.0.4951 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024711F83DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "time" : {
+        "start" : 1653435477599,
+        "stop" : 1653435477599,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8bc441ebebd1e92f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/8bc441ebebd1e92f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424608211,
+        "stop" : 1653424620026,
+        "duration" : 11815
+      }
+    }, {
+      "uid" : "ca0b8db0ca8be9dc",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/ca0b8db0ca8be9dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424544471,
+        "stop" : 1653424556496,
+        "duration" : 12025
+      }
+    }, {
+      "uid" : "5368a310de29a199",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/5368a310de29a199",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424483628,
+        "stop" : 1653424495426,
+        "duration" : 11798
+      }
+    }, {
+      "uid" : "d64fd467ea1104a4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/d64fd467ea1104a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424423159,
+        "stop" : 1653424434935,
+        "duration" : 11776
+      }
+    }, {
+      "uid" : "274f0da5c0792f50",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/274f0da5c0792f50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424363143,
+        "stop" : 1653424374875,
+        "duration" : 11732
+      }
+    }, {
+      "uid" : "b6b6d022a5c4672a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/b6b6d022a5c4672a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424303073,
+        "stop" : 1653424314861,
+        "duration" : 11788
+      }
+    }, {
+      "uid" : "4e43601a6032123d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/4e43601a6032123d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424242841,
+        "stop" : 1653424254657,
+        "duration" : 11816
+      }
+    }, {
+      "uid" : "2fd64dce796be90e",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/2fd64dce796be90e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424182806,
+        "stop" : 1653424194703,
+        "duration" : 11897
+      }
+    }, {
+      "uid" : "aeffa9f7724566d9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/aeffa9f7724566d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424122532,
+        "stop" : 1653424134295,
+        "duration" : 11763
+      }
+    }, {
+      "uid" : "94386630e620a8cd",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/94386630e620a8cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424062449,
+        "stop" : 1653424074260,
+        "duration" : 11811
+      }
+    }, {
+      "uid" : "f26113daebda841e",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/f26113daebda841e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423992630,
+        "stop" : 1653424013138,
+        "duration" : 20508
+      }
+    }, {
+      "uid" : "e33d00d68e9a9a1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/e33d00d68e9a9a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423919883,
+        "stop" : 1653423944572,
+        "duration" : 24689
+      }
+    }, {
+      "uid" : "32777099cbb262c0",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/32777099cbb262c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423857373,
+        "stop" : 1653423869244,
+        "duration" : 11871
+      }
+    }, {
+      "uid" : "e89a74e6aea978d3",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/e89a74e6aea978d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423797223,
+        "stop" : 1653423808871,
+        "duration" : 11648
+      }
+    }, {
+      "uid" : "99cbf348df1e56bc",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/99cbf348df1e56bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423738392,
+        "stop" : 1653423750697,
+        "duration" : 12305
+      }
+    }, {
+      "uid" : "820b3861ad5add01",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/820b3861ad5add01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423672319,
+        "stop" : 1653423684826,
+        "duration" : 12507
+      }
+    } ]
+  },
+  "d67e1340f0609579483fac562c66e20c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "16ece89f8776610c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/20/allure/#testresult/16ece89f8776610c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653211491661,
+        "stop" : 1653211494746,
+        "duration" : 3085
+      }
+    }, {
+      "uid" : "39555c25d5908bf",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/19/allure/#testresult/39555c25d5908bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653211491661,
+        "stop" : 1653211494746,
+        "duration" : 3085
+      }
+    }, {
+      "uid" : "5a684b1eed335c3a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/18/allure/#testresult/5a684b1eed335c3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653211491661,
+        "stop" : 1653211494746,
+        "duration" : 3085
+      }
+    }, {
+      "uid" : "4264d47e8d90fe88",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/17/allure/#testresult/4264d47e8d90fe88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653211491661,
+        "stop" : 1653211494746,
+        "duration" : 3085
+      }
+    } ]
+  },
+  "835a01deaf5cd4ca84165a631303ab7c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 67,
+      "unknown" : 0,
+      "total" : 67
+    },
+    "items" : [ {
+      "uid" : "b5c305179f57789f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/b5c305179f57789f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "4bf265137026020",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/4bf265137026020",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "8b0ee0f0f1ea2011",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/8b0ee0f0f1ea2011",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "7f38bf5070c4faa1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/7f38bf5070c4faa1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "a1b3dd81196810f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/a1b3dd81196810f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "bbfb48e3919a806b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/bbfb48e3919a806b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "d688e58b74ea29ec",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/d688e58b74ea29ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "eb6e4add3a8dc445",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/eb6e4add3a8dc445",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "3eddde6d01634555",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/3eddde6d01634555",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "afcf44b4073107e",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/afcf44b4073107e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "fbbb6917b13b9d2d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/fbbb6917b13b9d2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "3beb649dce200327",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/3beb649dce200327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "4bef63a7197a2993",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/4bef63a7197a2993",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "755bc3df56ea0238",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/755bc3df56ea0238",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "7ef8e972efc23179",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/7ef8e972efc23179",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "534b4ae101e9c9f2",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/534b4ae101e9c9f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "7c2390be52e589ad",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/7c2390be52e589ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "bbb4a0e6cd74b062",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/bbb4a0e6cd74b062",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "63ca16b3ccc34702",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/63ca16b3ccc34702",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    }, {
+      "uid" : "9378d71cb6942a97",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/9378d71cb6942a97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404888690,
+        "stop" : 1653404889503,
+        "duration" : 813
+      }
+    } ]
+  },
+  "8a334159fddda7273ac4b4422d3aa174" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 67,
+      "unknown" : 0,
+      "total" : 67
+    },
+    "items" : [ {
+      "uid" : "8d81218610a2e26c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/8d81218610a2e26c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "4babe61252f0c81",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/4babe61252f0c81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "8c116c4d98c14277",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/8c116c4d98c14277",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "b93dcf7a81cc28f1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/b93dcf7a81cc28f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "a55400945dcbda46",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/a55400945dcbda46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "99c1b1b5c923b4b0",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/99c1b1b5c923b4b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "217f626f7a520a2",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/217f626f7a520a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "58e5d989c440248a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/58e5d989c440248a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "6d44488395437931",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/6d44488395437931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "8f93f4ab9e46a9a6",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/8f93f4ab9e46a9a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "4e0e7d172890d32",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/4e0e7d172890d32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "163e3b6672ead5d1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/163e3b6672ead5d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "45ed9614ceb50c21",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/45ed9614ceb50c21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "d43279eaab0ee522",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/d43279eaab0ee522",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "1e4c565c1bdfdb88",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/1e4c565c1bdfdb88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "f3e551c897629049",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/f3e551c897629049",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "43f801f07854d198",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/43f801f07854d198",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "aed18bf29d2e6ff4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/aed18bf29d2e6ff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "725305869ca99598",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/725305869ca99598",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    }, {
+      "uid" : "a713211d3ed801cd",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/a713211d3ed801cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404887737,
+        "stop" : 1653404888687,
+        "duration" : 950
+      }
+    } ]
+  },
+  "54f460b5c8730e29acd6408c4f68f4e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 66,
+      "unknown" : 0,
+      "total" : 66
+    },
+    "items" : [ {
+      "uid" : "69541fafbdaa84a9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/69541fafbdaa84a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424642981,
+        "stop" : 1653424644105,
+        "duration" : 1124
+      }
+    }, {
+      "uid" : "ee1b53f03045d6ef",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/ee1b53f03045d6ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424642981,
+        "stop" : 1653424644105,
+        "duration" : 1124
+      }
+    }, {
+      "uid" : "830b42c9ba25c7be",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/830b42c9ba25c7be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424642981,
+        "stop" : 1653424644105,
+        "duration" : 1124
+      }
+    }, {
+      "uid" : "b5155e70d8372573",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/b5155e70d8372573",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424642981,
+        "stop" : 1653424644105,
+        "duration" : 1124
+      }
+    }, {
+      "uid" : "ec02e851f993ac79",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/ec02e851f993ac79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424582786,
+        "stop" : 1653424583990,
+        "duration" : 1204
+      }
+    }, {
+      "uid" : "36bb0b0467d43c8c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/36bb0b0467d43c8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424517563,
+        "stop" : 1653424518775,
+        "duration" : 1212
+      }
+    }, {
+      "uid" : "1a2f8be17a7e53ba",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/1a2f8be17a7e53ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424457550,
+        "stop" : 1653424458668,
+        "duration" : 1118
+      }
+    }, {
+      "uid" : "cc6f204901536789",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/cc6f204901536789",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424397758,
+        "stop" : 1653424398969,
+        "duration" : 1211
+      }
+    }, {
+      "uid" : "59872aaab470ce96",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/59872aaab470ce96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424337230,
+        "stop" : 1653424338289,
+        "duration" : 1059
+      }
+    }, {
+      "uid" : "5b19c4a032e79b8f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/5b19c4a032e79b8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424277112,
+        "stop" : 1653424278333,
+        "duration" : 1221
+      }
+    }, {
+      "uid" : "87c6a48ac68dedd4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/87c6a48ac68dedd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424217008,
+        "stop" : 1653424218230,
+        "duration" : 1222
+      }
+    }, {
+      "uid" : "79a0f76c2cc5b92a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/79a0f76c2cc5b92a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424157004,
+        "stop" : 1653424158226,
+        "duration" : 1222
+      }
+    }, {
+      "uid" : "1fb9307acd2bc3a7",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/1fb9307acd2bc3a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424096998,
+        "stop" : 1653424098216,
+        "duration" : 1218
+      }
+    }, {
+      "uid" : "54288c8dd52c0be9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/54288c8dd52c0be9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424036783,
+        "stop" : 1653424037899,
+        "duration" : 1116
+      }
+    }, {
+      "uid" : "cfd4101975f99f51",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/cfd4101975f99f51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423967766,
+        "stop" : 1653423969196,
+        "duration" : 1430
+      }
+    }, {
+      "uid" : "f34a9ee2c21ca9b6",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/f34a9ee2c21ca9b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423891575,
+        "stop" : 1653423892693,
+        "duration" : 1118
+      }
+    }, {
+      "uid" : "d3f438878c936f7e",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/d3f438878c936f7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423831583,
+        "stop" : 1653423832684,
+        "duration" : 1101
+      }
+    }, {
+      "uid" : "c77ae027437e187a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/c77ae027437e187a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423771764,
+        "stop" : 1653423772881,
+        "duration" : 1117
+      }
+    }, {
+      "uid" : "415efec80ed985ba",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/415efec80ed985ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423706240,
+        "stop" : 1653423707247,
+        "duration" : 1007
+      }
+    }, {
+      "uid" : "6e5066e5a4243e01",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/6e5066e5a4243e01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423646027,
+        "stop" : 1653423647146,
+        "duration" : 1119
+      }
+    } ]
+  },
+  "e76bd84212e39a5a72a0cf700e7b201b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 66,
+      "unknown" : 0,
+      "total" : 66
+    },
+    "items" : [ {
+      "uid" : "ce6e3aea1348e779",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/ce6e3aea1348e779",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424646270,
+        "stop" : 1653424647180,
+        "duration" : 910
+      }
+    }, {
+      "uid" : "e52caed633de98da",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/e52caed633de98da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424646270,
+        "stop" : 1653424647180,
+        "duration" : 910
+      }
+    }, {
+      "uid" : "e76a55165e5cff0b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/e76a55165e5cff0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424646270,
+        "stop" : 1653424647180,
+        "duration" : 910
+      }
+    }, {
+      "uid" : "69954e50ad1c9054",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/69954e50ad1c9054",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424646270,
+        "stop" : 1653424647180,
+        "duration" : 910
+      }
+    }, {
+      "uid" : "e93742f205349a77",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/e93742f205349a77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424586157,
+        "stop" : 1653424587275,
+        "duration" : 1118
+      }
+    }, {
+      "uid" : "4a819ac738467990",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/4a819ac738467990",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424521351,
+        "stop" : 1653424522468,
+        "duration" : 1117
+      }
+    }, {
+      "uid" : "b21fba0fa0d30ff8",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/b21fba0fa0d30ff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424461031,
+        "stop" : 1653424462051,
+        "duration" : 1020
+      }
+    }, {
+      "uid" : "65bd2288a6ded6c0",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/65bd2288a6ded6c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424401443,
+        "stop" : 1653424402559,
+        "duration" : 1116
+      }
+    }, {
+      "uid" : "5a9aded47c591fcd",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/5a9aded47c591fcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424340499,
+        "stop" : 1653424341614,
+        "duration" : 1115
+      }
+    }, {
+      "uid" : "6d6456f7da337e64",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/6d6456f7da337e64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424280816,
+        "stop" : 1653424281926,
+        "duration" : 1110
+      }
+    }, {
+      "uid" : "fde5a085e3b9439f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/fde5a085e3b9439f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424220695,
+        "stop" : 1653424221746,
+        "duration" : 1051
+      }
+    }, {
+      "uid" : "ad5aefdcdf7d405b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/ad5aefdcdf7d405b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424160812,
+        "stop" : 1653424161801,
+        "duration" : 989
+      }
+    }, {
+      "uid" : "c7ff91ff23a66be9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/c7ff91ff23a66be9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424100675,
+        "stop" : 1653424101792,
+        "duration" : 1117
+      }
+    }, {
+      "uid" : "1e0e1e498230e2c2",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/1e0e1e498230e2c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424040164,
+        "stop" : 1653424041382,
+        "duration" : 1218
+      }
+    }, {
+      "uid" : "d5ed22169ba64da7",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/d5ed22169ba64da7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423971758,
+        "stop" : 1653423972885,
+        "duration" : 1127
+      }
+    }, {
+      "uid" : "4a61611541165e21",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/4a61611541165e21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423895067,
+        "stop" : 1653423896184,
+        "duration" : 1117
+      }
+    }, {
+      "uid" : "b6b2dea6db463027",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/b6b2dea6db463027",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423834898,
+        "stop" : 1653423835860,
+        "duration" : 962
+      }
+    }, {
+      "uid" : "c5d0e8a93d79ffbe",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/c5d0e8a93d79ffbe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423775040,
+        "stop" : 1653423775928,
+        "duration" : 888
+      }
+    }, {
+      "uid" : "91b53b3b29552b6e",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/91b53b3b29552b6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423709297,
+        "stop" : 1653423710417,
+        "duration" : 1120
+      }
+    }, {
+      "uid" : "d4b78d3f072e2cf9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/d4b78d3f072e2cf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423649403,
+        "stop" : 1653423650400,
+        "duration" : 997
+      }
+    } ]
+  },
+  "030a993f6640f6dde438f66e690c1229" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 66,
+      "unknown" : 0,
+      "total" : 66
+    },
+    "items" : [ {
+      "uid" : "cfecfabc6054cadd",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/cfecfabc6054cadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424640813,
+        "stop" : 1653424641962,
+        "duration" : 1149
+      }
+    }, {
+      "uid" : "51fc9d1fa506c904",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/51fc9d1fa506c904",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424640813,
+        "stop" : 1653424641962,
+        "duration" : 1149
+      }
+    }, {
+      "uid" : "916e3fafaf3d8d2d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/916e3fafaf3d8d2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424640813,
+        "stop" : 1653424641962,
+        "duration" : 1149
+      }
+    }, {
+      "uid" : "38b3dd141541720e",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/38b3dd141541720e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424640813,
+        "stop" : 1653424641962,
+        "duration" : 1149
+      }
+    }, {
+      "uid" : "7816e2352d57ebc4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/7816e2352d57ebc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424580557,
+        "stop" : 1653424581758,
+        "duration" : 1201
+      }
+    }, {
+      "uid" : "412db44ff89a52da",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/412db44ff89a52da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424515321,
+        "stop" : 1653424516503,
+        "duration" : 1182
+      }
+    }, {
+      "uid" : "650e7a5beb4c32a3",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/650e7a5beb4c32a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424455271,
+        "stop" : 1653424456546,
+        "duration" : 1275
+      }
+    }, {
+      "uid" : "2ede503dfa62dc79",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/2ede503dfa62dc79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424395246,
+        "stop" : 1653424396605,
+        "duration" : 1359
+      }
+    }, {
+      "uid" : "d5d244914d560d51",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/d5d244914d560d51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424334979,
+        "stop" : 1653424336182,
+        "duration" : 1203
+      }
+    }, {
+      "uid" : "839a6ead05ec1eb8",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/839a6ead05ec1eb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424274840,
+        "stop" : 1653424276083,
+        "duration" : 1243
+      }
+    }, {
+      "uid" : "8258777d524d013a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/8258777d524d013a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424214745,
+        "stop" : 1653424215970,
+        "duration" : 1225
+      }
+    }, {
+      "uid" : "f0f603b9b9fed0c6",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/f0f603b9b9fed0c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424154716,
+        "stop" : 1653424155960,
+        "duration" : 1244
+      }
+    }, {
+      "uid" : "d6b59f861f82ed4d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/d6b59f861f82ed4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424094603,
+        "stop" : 1653424095859,
+        "duration" : 1256
+      }
+    }, {
+      "uid" : "e0f14ef3f5dc8b5d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/e0f14ef3f5dc8b5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424034508,
+        "stop" : 1653424035744,
+        "duration" : 1236
+      }
+    }, {
+      "uid" : "57075c6303037e2b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/57075c6303037e2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423964385,
+        "stop" : 1653423966524,
+        "duration" : 2139
+      }
+    }, {
+      "uid" : "1f834982fddd238c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/1f834982fddd238c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423889214,
+        "stop" : 1653423890543,
+        "duration" : 1329
+      }
+    }, {
+      "uid" : "31cc4707cfe6845f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/31cc4707cfe6845f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423829256,
+        "stop" : 1653423830430,
+        "duration" : 1174
+      }
+    }, {
+      "uid" : "3ed707a73d09828b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/3ed707a73d09828b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423769373,
+        "stop" : 1653423770733,
+        "duration" : 1360
+      }
+    }, {
+      "uid" : "aeacc49e15f8a318",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/aeacc49e15f8a318",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423703992,
+        "stop" : 1653423705196,
+        "duration" : 1204
+      }
+    }, {
+      "uid" : "5030907a8b94208c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/5030907a8b94208c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423643763,
+        "stop" : 1653423644986,
+        "duration" : 1223
+      }
+    } ]
+  },
+  "7e6ca134b9a860061dd1075d36c7e3c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 66,
+      "unknown" : 0,
+      "total" : 66
+    },
+    "items" : [ {
+      "uid" : "ff64082de2737524",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/ff64082de2737524",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424641970,
+        "stop" : 1653424642969,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "bfba0d1a0d1fba91",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/bfba0d1a0d1fba91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424641970,
+        "stop" : 1653424642969,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "8c1c90cc359b63d4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/8c1c90cc359b63d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424641970,
+        "stop" : 1653424642969,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "85ed9ae4fac48bc",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/85ed9ae4fac48bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424641970,
+        "stop" : 1653424642969,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "eca4f11623722bdb",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/eca4f11623722bdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424581776,
+        "stop" : 1653424582773,
+        "duration" : 997
+      }
+    }, {
+      "uid" : "c09d5f894819ee82",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/c09d5f894819ee82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424516516,
+        "stop" : 1653424517548,
+        "duration" : 1032
+      }
+    }, {
+      "uid" : "832cf3f071e0d4dc",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/832cf3f071e0d4dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424456564,
+        "stop" : 1653424457538,
+        "duration" : 974
+      }
+    }, {
+      "uid" : "ccdcf7d260712606",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/ccdcf7d260712606",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424396617,
+        "stop" : 1653424397741,
+        "duration" : 1124
+      }
+    }, {
+      "uid" : "ae0f6668f94af974",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/ae0f6668f94af974",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424336196,
+        "stop" : 1653424337217,
+        "duration" : 1021
+      }
+    }, {
+      "uid" : "50871ea8594dd40b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/50871ea8594dd40b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424276090,
+        "stop" : 1653424277100,
+        "duration" : 1010
+      }
+    }, {
+      "uid" : "84c6803c88a3e7eb",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/84c6803c88a3e7eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424215985,
+        "stop" : 1653424216996,
+        "duration" : 1011
+      }
+    }, {
+      "uid" : "2d3ea4cb12e9bc95",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/2d3ea4cb12e9bc95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424155978,
+        "stop" : 1653424156991,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "c0a12499d4776245",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/c0a12499d4776245",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424095867,
+        "stop" : 1653424096984,
+        "duration" : 1117
+      }
+    }, {
+      "uid" : "6f3380123d18938e",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/6f3380123d18938e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424035752,
+        "stop" : 1653424036769,
+        "duration" : 1017
+      }
+    }, {
+      "uid" : "279bed43ec419960",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/279bed43ec419960",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423966529,
+        "stop" : 1653423967757,
+        "duration" : 1228
+      }
+    }, {
+      "uid" : "ad5f09db6f4453db",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/ad5f09db6f4453db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423890548,
+        "stop" : 1653423891561,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "9d23c4bb8df7158f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/9d23c4bb8df7158f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423830434,
+        "stop" : 1653423831563,
+        "duration" : 1129
+      }
+    }, {
+      "uid" : "f4c5761f031cffb",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/f4c5761f031cffb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423770737,
+        "stop" : 1653423771755,
+        "duration" : 1018
+      }
+    }, {
+      "uid" : "6fbde6c949834e8d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/6fbde6c949834e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423705203,
+        "stop" : 1653423706222,
+        "duration" : 1019
+      }
+    }, {
+      "uid" : "ba3edef524954d54",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/ba3edef524954d54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423645002,
+        "stop" : 1653423646015,
+        "duration" : 1013
+      }
+    } ]
+  },
+  "29fe744f5416fee40d39fb078310e498" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 67,
+      "unknown" : 0,
+      "total" : 67
+    },
+    "items" : [ {
+      "uid" : "4da07810c2d1bf4c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/4da07810c2d1bf4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "2ce322cdde154c2f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/2ce322cdde154c2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "8e8435fa1fa8a572",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/8e8435fa1fa8a572",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "a6733ab7b630e58c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/a6733ab7b630e58c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "e2c68c310f896289",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/e2c68c310f896289",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "14131501dd1a9ba9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/14131501dd1a9ba9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "a663a580a19d8b4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/a663a580a19d8b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "74f801ff47589885",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/74f801ff47589885",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "5828bdbe4ee6b869",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/5828bdbe4ee6b869",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "a7ff4a3c2b5dbdb0",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/a7ff4a3c2b5dbdb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "c26fd5e103e5eaa3",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/c26fd5e103e5eaa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "66841b7bb059379d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/66841b7bb059379d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "58a632fed9f95be8",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/58a632fed9f95be8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "ba8d4476bfb4b25c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/ba8d4476bfb4b25c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "683be58a5573297f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/683be58a5573297f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "a3876e98410ec3bf",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/a3876e98410ec3bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "f2cdb8c7a9411086",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/f2cdb8c7a9411086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "88d0c11eebc609ec",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/88d0c11eebc609ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "55cd26b0110ad11f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/55cd26b0110ad11f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    }, {
+      "uid" : "2e919c8a4589947a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/2e919c8a4589947a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404891347,
+        "stop" : 1653404892242,
+        "duration" : 895
+      }
+    } ]
+  },
+  "5762e6d21066625e60f7cc23a80ef545" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 66,
+      "unknown" : 0,
+      "total" : 66
+    },
+    "items" : [ {
+      "uid" : "107241442abf1d12",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/107241442abf1d12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424644121,
+        "stop" : 1653424645134,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "4957158b053c9e56",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/4957158b053c9e56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424644121,
+        "stop" : 1653424645134,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "d46baa5d0bcc2b4b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/d46baa5d0bcc2b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424644121,
+        "stop" : 1653424645134,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "df5751d242c099e3",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/df5751d242c099e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424644121,
+        "stop" : 1653424645134,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "1828868064846283",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/1828868064846283",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424584006,
+        "stop" : 1653424585122,
+        "duration" : 1116
+      }
+    }, {
+      "uid" : "58e0799f55dcff3",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/58e0799f55dcff3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424518791,
+        "stop" : 1653424520103,
+        "duration" : 1312
+      }
+    }, {
+      "uid" : "7b285548c9e47ad5",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/7b285548c9e47ad5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424458688,
+        "stop" : 1653424459895,
+        "duration" : 1207
+      }
+    }, {
+      "uid" : "c24c2e649f0fcfbc",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/c24c2e649f0fcfbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424398980,
+        "stop" : 1653424400300,
+        "duration" : 1320
+      }
+    }, {
+      "uid" : "98eed8f1bfcb342d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/98eed8f1bfcb342d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424338293,
+        "stop" : 1653424339403,
+        "duration" : 1110
+      }
+    }, {
+      "uid" : "89de3daf8484b2e0",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/89de3daf8484b2e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424278345,
+        "stop" : 1653424279599,
+        "duration" : 1254
+      }
+    }, {
+      "uid" : "ad69e153be028a35",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/ad69e153be028a35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424218240,
+        "stop" : 1653424219559,
+        "duration" : 1319
+      }
+    }, {
+      "uid" : "6d9baeec52afcee0",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/6d9baeec52afcee0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424158246,
+        "stop" : 1653424159653,
+        "duration" : 1407
+      }
+    }, {
+      "uid" : "1289856f0ab89bfd",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/1289856f0ab89bfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424098231,
+        "stop" : 1653424099555,
+        "duration" : 1324
+      }
+    }, {
+      "uid" : "ac2bdd85a204fb11",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/ac2bdd85a204fb11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424037911,
+        "stop" : 1653424039127,
+        "duration" : 1216
+      }
+    }, {
+      "uid" : "3e6ea476510102e9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/3e6ea476510102e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423969218,
+        "stop" : 1653423970520,
+        "duration" : 1302
+      }
+    }, {
+      "uid" : "3bf6fbaa3be4e5a1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/3bf6fbaa3be4e5a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423892706,
+        "stop" : 1653423893929,
+        "duration" : 1223
+      }
+    }, {
+      "uid" : "d227c42f592f3d15",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/d227c42f592f3d15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423832697,
+        "stop" : 1653423833811,
+        "duration" : 1114
+      }
+    }, {
+      "uid" : "ba3035b6ef8d4a9b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/ba3035b6ef8d4a9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423772890,
+        "stop" : 1653423773935,
+        "duration" : 1045
+      }
+    }, {
+      "uid" : "b80d0faa499b3759",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/b80d0faa499b3759",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423707259,
+        "stop" : 1653423708403,
+        "duration" : 1144
+      }
+    }, {
+      "uid" : "35ca22804e27557c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/35ca22804e27557c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423647158,
+        "stop" : 1653423648257,
+        "duration" : 1099
+      }
+    } ]
+  },
+  "b358daa110556dd83a732efa42315418" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 67,
+      "unknown" : 0,
+      "total" : 67
+    },
+    "items" : [ {
+      "uid" : "e6125756a8cf1343",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/e6125756a8cf1343",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "cf2fcaf8c8058da2",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/cf2fcaf8c8058da2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "efc0bdf7011c19fa",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/efc0bdf7011c19fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "4e0f70c74e400c2d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/4e0f70c74e400c2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "c60a1288ee5fb651",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/c60a1288ee5fb651",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "525d38dba18eb37f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/525d38dba18eb37f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "1fbbbbd53ddaeade",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/1fbbbbd53ddaeade",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "d548483efc4b09a3",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/d548483efc4b09a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "9f67cb18b33ce84d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/9f67cb18b33ce84d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "b338a5fdfdee778f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/b338a5fdfdee778f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "dc27234ccab152c1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/dc27234ccab152c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "b96ade13dbca29ac",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/b96ade13dbca29ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "4f1eed00332be3d5",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/4f1eed00332be3d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "a249a9a8eaeaecd1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/a249a9a8eaeaecd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "efb84784ba35eb5d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/efb84784ba35eb5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "f44be6afd2bf5d45",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/f44be6afd2bf5d45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "8e1b2d35c091f113",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/8e1b2d35c091f113",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "cc46bce9c166a8d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/cc46bce9c166a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "9c7fc8dce09ba7b7",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/9c7fc8dce09ba7b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "c821dd74c6fca16a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/c821dd74c6fca16a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404889512,
+        "stop" : 1653404890420,
+        "duration" : 908
+      }
+    } ]
+  },
+  "af0e403a457b7ff6262ceb8359fd3ae4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 67,
+      "unknown" : 0,
+      "total" : 67
+    },
+    "items" : [ {
+      "uid" : "48ee294a97ab685c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/48ee294a97ab685c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "55bd224b74cf0cc4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/55bd224b74cf0cc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "d0df856466b4c8b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/d0df856466b4c8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "271200e9acd9a3af",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/271200e9acd9a3af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "2052093f72f6c187",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/2052093f72f6c187",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "889dcbc1275bb7b2",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/889dcbc1275bb7b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "2fd38e4254d41cea",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/2fd38e4254d41cea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "25b2ea1d59c81551",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/25b2ea1d59c81551",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "c718a28ab55a638b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/c718a28ab55a638b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "dc03c6e3a344ac14",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/dc03c6e3a344ac14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "66d99b3e4dcb0b29",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/66d99b3e4dcb0b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "2436cf4ab70f1e70",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/2436cf4ab70f1e70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "519979a9e6cec0f9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/519979a9e6cec0f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "b417cea3488ce4cc",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/b417cea3488ce4cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "28b83732f34aed33",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/28b83732f34aed33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "3e3e4e508fb855d2",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/3e3e4e508fb855d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "381bfd7d6254eef4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/381bfd7d6254eef4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "2a8998d95baf8004",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/2a8998d95baf8004",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "c0e18dbb6c4f9e18",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/c0e18dbb6c4f9e18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    }, {
+      "uid" : "d1553ee7941fe28d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/d1553ee7941fe28d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404890431,
+        "stop" : 1653404891340,
+        "duration" : 909
+      }
+    } ]
+  },
+  "23b200f007164079455ebac1f6774b3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 66,
+      "unknown" : 0,
+      "total" : 66
+    },
+    "items" : [ {
+      "uid" : "de72d89ce3d2b9e1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/de72d89ce3d2b9e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "9e9e7752745fc6e7",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/9e9e7752745fc6e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "3d895b700693eaa8",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/3d895b700693eaa8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "2ef5d2428e85f52f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/2ef5d2428e85f52f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "d232ea4332b36858",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/d232ea4332b36858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "5e0314450367f98f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/5e0314450367f98f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "5adcf87015d44625",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/5adcf87015d44625",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "87f2d1e6b816fe93",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/87f2d1e6b816fe93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "e0fb4f6f9d02f4a4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/e0fb4f6f9d02f4a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "e27a1f8851166806",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/e27a1f8851166806",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "3692e8a892a025c",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/3692e8a892a025c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "365e949a24ce2a46",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/365e949a24ce2a46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "9d7106b5404d7a55",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/9d7106b5404d7a55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "314936082b7fe10d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/314936082b7fe10d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "a9f78aa0f4eb31ce",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/a9f78aa0f4eb31ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "55b0f7780c5ab5c8",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/55b0f7780c5ab5c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "5a666a1ca7ddbb7f",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/5a666a1ca7ddbb7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "b88d63388c214687",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/b88d63388c214687",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "e3a20b1ad607bd4",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/e3a20b1ad607bd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    }, {
+      "uid" : "8c9c292efa75c565",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/8c9c292efa75c565",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653404892252,
+        "stop" : 1653404893054,
+        "duration" : 802
+      }
+    } ]
+  },
+  "84044c1d48068deda6d386d8102539d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 66,
+      "unknown" : 0,
+      "total" : 66
+    },
+    "items" : [ {
+      "uid" : "a18a7433209fdcef",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/131/allure/#testresult/a18a7433209fdcef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424645139,
+        "stop" : 1653424646255,
+        "duration" : 1116
+      }
+    }, {
+      "uid" : "70dc2a20658d0c9e",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/130/allure/#testresult/70dc2a20658d0c9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424645139,
+        "stop" : 1653424646255,
+        "duration" : 1116
+      }
+    }, {
+      "uid" : "ff90bd08815ca2db",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/129/allure/#testresult/ff90bd08815ca2db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424645139,
+        "stop" : 1653424646255,
+        "duration" : 1116
+      }
+    }, {
+      "uid" : "ffce7abf777af461",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/128/allure/#testresult/ffce7abf777af461",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424645139,
+        "stop" : 1653424646255,
+        "duration" : 1116
+      }
+    }, {
+      "uid" : "df6a5c969c7c52dd",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/127/allure/#testresult/df6a5c969c7c52dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424585131,
+        "stop" : 1653424586149,
+        "duration" : 1018
+      }
+    }, {
+      "uid" : "f697f1c588010ddb",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/126/allure/#testresult/f697f1c588010ddb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424520117,
+        "stop" : 1653424521335,
+        "duration" : 1218
+      }
+    }, {
+      "uid" : "f602d377907d0f3d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/125/allure/#testresult/f602d377907d0f3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424459919,
+        "stop" : 1653424461021,
+        "duration" : 1102
+      }
+    }, {
+      "uid" : "d31e110dc5b03fa7",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/124/allure/#testresult/d31e110dc5b03fa7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424400320,
+        "stop" : 1653424401425,
+        "duration" : 1105
+      }
+    }, {
+      "uid" : "9339384f463bb2a1",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/123/allure/#testresult/9339384f463bb2a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424339414,
+        "stop" : 1653424340488,
+        "duration" : 1074
+      }
+    }, {
+      "uid" : "c32922102711b550",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/122/allure/#testresult/c32922102711b550",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424279610,
+        "stop" : 1653424280802,
+        "duration" : 1192
+      }
+    }, {
+      "uid" : "90647b24a0f25c5b",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/121/allure/#testresult/90647b24a0f25c5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424219573,
+        "stop" : 1653424220686,
+        "duration" : 1113
+      }
+    }, {
+      "uid" : "e3c80e6c2acbf202",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/120/allure/#testresult/e3c80e6c2acbf202",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424159669,
+        "stop" : 1653424160792,
+        "duration" : 1123
+      }
+    }, {
+      "uid" : "4d194991fd096528",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/119/allure/#testresult/4d194991fd096528",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424099563,
+        "stop" : 1653424100665,
+        "duration" : 1102
+      }
+    }, {
+      "uid" : "9cb44b7ce65d5728",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/118/allure/#testresult/9cb44b7ce65d5728",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424039135,
+        "stop" : 1653424040154,
+        "duration" : 1019
+      }
+    }, {
+      "uid" : "2a37e8999b5f2bf8",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/117/allure/#testresult/2a37e8999b5f2bf8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423970530,
+        "stop" : 1653423971746,
+        "duration" : 1216
+      }
+    }, {
+      "uid" : "2d99886cd5de78fa",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/116/allure/#testresult/2d99886cd5de78fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423893941,
+        "stop" : 1653423895052,
+        "duration" : 1111
+      }
+    }, {
+      "uid" : "ed84916e637e2050",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/115/allure/#testresult/ed84916e637e2050",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423833816,
+        "stop" : 1653423834894,
+        "duration" : 1078
+      }
+    }, {
+      "uid" : "7fcc805f612c4fe9",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/114/allure/#testresult/7fcc805f612c4fe9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423773938,
+        "stop" : 1653423775029,
+        "duration" : 1091
+      }
+    }, {
+      "uid" : "3ae2417e69a40c8d",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/113/allure/#testresult/3ae2417e69a40c8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423708406,
+        "stop" : 1653423709288,
+        "duration" : 882
+      }
+    }, {
+      "uid" : "84648d90feb1a1f0",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/112/allure/#testresult/84648d90feb1a1f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653423648262,
+        "stop" : 1653423649393,
+        "duration" : 1131
+      }
+    } ]
+  }
+}

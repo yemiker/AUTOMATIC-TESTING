@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='trip-yoetz.herokuapp.com', port=443): Read timed out. (read timeout=None)",
+      "children" : [ {
+        "name" : "test_Login_Invalid_When_Password_Invalid",
+        "uid" : "d5b23546db404974",
+        "parentUid" : "cbbee4a4d692861ba14ef363834ec759",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653490500545,
+          "stop" : 1653491796755,
+          "duration" : 1296210
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cbbee4a4d692861ba14ef363834ec759"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

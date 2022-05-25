@@ -1,0 +1,190 @@
+{
+  "uid" : "593b6fcf0d2223d2",
+  "name" : "test_contactUs_success",
+  "fullName" : "Web.Test.test_ContactusPage.Tests_ContactUs#test_contactUs_success",
+  "historyId" : "0c9b3b26b5f0a490b18e5b79b72629e6",
+  "time" : {
+    "start" : 1653474391330,
+    "stop" : 1653474403067,
+    "duration" : 11737
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "set_up",
+    "time" : {
+      "start" : 1653474388704,
+      "stop" : 1653474391327,
+      "duration" : 2623
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "enter_name",
+      "time" : {
+        "start" : 1653474392487,
+        "stop" : 1653474392584,
+        "duration" : 97
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "name",
+        "value" : "'dani'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter_subject",
+      "time" : {
+        "start" : 1653474392584,
+        "stop" : 1653474392692,
+        "duration" : 108
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "subject",
+        "value" : "'sdasdsdd'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter_email",
+      "time" : {
+        "start" : 1653474392692,
+        "stop" : 1653474392810,
+        "duration" : 118
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "email",
+        "value" : "'dani@walla.com'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter_message",
+      "time" : {
+        "start" : 1653474392810,
+        "stop" : 1653474392925,
+        "duration" : 115
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "message",
+        "value" : "'sadsadsdda'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "click_link",
+      "time" : {
+        "start" : 1653474392925,
+        "stop" : 1653474393013,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "fa58bba07fd69b8c",
+      "name" : "log",
+      "source" : "fa58bba07fd69b8c.txt",
+      "type" : "text/plain",
+      "size" : 368
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "set_up::0",
+    "time" : {
+      "start" : 1653474403067,
+      "stop" : 1653474405251,
+      "duration" : 2184
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('set_up')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Web.Test"
+  }, {
+    "name" : "suite",
+    "value" : "test_ContactusPage"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests_ContactUs"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-I67UJU4"
+  }, {
+    "name" : "thread",
+    "value" : "1560-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Web.Test.test_ContactusPage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('set_up')" ]
+  },
+  "source" : "593b6fcf0d2223d2.json",
+  "parameterValues" : [ ]
+}

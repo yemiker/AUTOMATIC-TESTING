@@ -1,0 +1,40 @@
+{
+  "d67e1340f0609579483fac562c66e20c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "39555c25d5908bf",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/19/allure/#testresult/39555c25d5908bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653211491661,
+        "stop" : 1653211494746,
+        "duration" : 3085
+      }
+    }, {
+      "uid" : "5a684b1eed335c3a",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/18/allure/#testresult/5a684b1eed335c3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653211491661,
+        "stop" : 1653211494746,
+        "duration" : 3085
+      }
+    }, {
+      "uid" : "4264d47e8d90fe88",
+      "reportUrl" : "http://localhost:8080/job/ATID_college_store_web/17/allure/#testresult/4264d47e8d90fe88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653211491661,
+        "stop" : 1653211494746,
+        "duration" : 3085
+      }
+    } ]
+  }
+}
