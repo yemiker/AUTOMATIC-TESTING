@@ -1,5 +1,7 @@
 import time
 
+from selenium.webdriver.common.by import By
+
 from Web.Pages.contactUsPage import contactUS
 from Web.Base.base import Base
 import pytest
@@ -23,18 +25,18 @@ class Tests_ContactUs(Base):
         except Exception as e:
             print("Error!",format(e))
 
-    #
-    # @pytest.mark.skip
-    # def test_contactUs_when_nameFiled_is_null(self):
-    #     driver = self.driver
-    #     contact = contactUS(driver)
-    #     contact.enter_subject('sdasds')
-    #     contact.enter_email('yemiek@walla.com')
-    #     contact.enter_message('sadsadsa')
-    #     contact.click_link()
-    #
-    #     value = driver.find_element(By.ID,"wpforms-15-field_0-error").get_attribute("innerText")
-    #     assert value == 'This field is required.'
+
+
+    def test_contactUs_when_nameFiled_is_null(self):
+        driver = self.driver
+        contact = contactUS(driver)
+        contact.enter_subject('sdasds')
+        contact.enter_email('yemiek@walla.com')
+        contact.enter_message('sadsadsa')
+        contact.click_link()
+
+        value = driver.find_element(By.ID,"wpforms-15-field_0-error").get_attribute("innerText")
+        assert value == 'This field is required.'
     #
     # @pytest.mark.skip
     # def test_contactUs_when_subjectFiled_is_null(self):

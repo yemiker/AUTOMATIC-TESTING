@@ -18,7 +18,7 @@ class Accessories(LocatorsAccessories):
 
     @allure.step
     def search_product_field(self):
-        self.driver.find_element(By.XPATH,self.search).click()
+        self.driver.find_element(By.CSS_SELECTOR,self.search).click()
 
     @allure.step
     def enter_an_product(self):
@@ -26,7 +26,11 @@ class Accessories(LocatorsAccessories):
 
     @allure.step
     def search_result_product(self):
-        self.driver.find_element(By.XPATH,self.search_resultXpath).get_attribute("innerText")
+        return self.driver.find_element(By.XPATH,self.search_resultXpath).get_attribute("innerText")
 
+    def enter_an_product_exist(self):
+        self.driver.find_element(By.CLASS_NAME,self.search_filedClasName).send_keys("ATID Blue Shoes")
 
+    def search_result_product_exist(self):
+        return self.driver.find_element(By.CLASS_NAME,self.search_result_txt_).get_attribute("innerText")
 

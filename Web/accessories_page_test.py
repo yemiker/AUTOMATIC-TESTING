@@ -39,6 +39,7 @@ def test_Search_exist_item():
     #Class name of search field
     driver.find_element(By.CLASS_NAME,"search-field").send_keys("ATID Blue Shoes")
     driver.find_element(By.XPATH,search).click()
+    driver.find_element(By.CLASS_NAME,"page-title ast-archive-title").get_attribute("innerText")
 
 #Test 4
 def test_Search_unexist_item():

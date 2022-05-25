@@ -3,13 +3,11 @@ from Web.Pages.AboutUsPage import AboutUs
 from Web.Base.base import Base
 import pytest
 
-
 """About Us Tests"""
-
 
 @pytest.mark.usefixtures('set_up')
 class Tests_AboutUsPage(Base):
-    def test_contactUs_success(self):
+    def test_Buttons_success(self):
         driver = self.driver
         about = AboutUs(driver)
         about.MenuBar()
@@ -20,6 +18,12 @@ class Tests_AboutUsPage(Base):
             element=self.driver.find_elements(By.CLASS_NAME, "menu-link")
             element[link_number].click()
             link_number = link_number + 1
+        try:
+            assert about.MenuBar_txt_() == about.menuBar_txt_result
+        except AssertionError:
+            print('Error!')
+            driver.get_screenshot_as_png()
+            driver.save_screenshot("button text.png")
 
     @pytest.mark.regression
     def test_Description(self):
@@ -55,6 +59,21 @@ class Tests_AboutUsPage(Base):
     def test_team(self):
         driver = self.driver
         team = AboutUs(driver)
+        try:
+            assert team.txt_team_() == team.txt_team_result
+        except AssertionError:
+            print('Error! ')
+            driver.get_screenshot_as_png()
+            driver.save_screenshot('team text.png')
 
+    def test_lower_page(self):
+        driver = self.driver
+        text = AboutUs(driver)
+        try:
+            assert text.txt_lower_page_() == text.txt_lower_page
+        except AssertionError:
+            print('Error! ')
+            driver.get_screenshot_as_png()
+            driver.save_screenshot('team text.png')
 
 
