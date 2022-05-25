@@ -1,8 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed May 25 18:16:39 IDT 2022","Wed May 25 18:16:40 IDT 2022","1018","Server","testApi","Test_login","","","test_Login_Invalid_When_All_fields_Null",""
-"passed","Wed May 25 18:16:38 IDT 2022","Wed May 25 18:16:39 IDT 2022","1019","Server","testApi","Test_login","","","test_Login_Invalid_When_Password_field_Null",""
-"passed","Wed May 25 17:54:58 IDT 2022","Wed May 25 17:54:59 IDT 2022","937","Server","testApi","Test_login","","","test_LoginValid",""
-"passed","Wed May 25 17:54:25 IDT 2022","Wed May 25 17:54:37 IDT 2022","11812","Web.Test","test_ContactusPage","Tests_ContactUs","","","test_contactUs_success",""
-"passed","Wed May 25 17:54:59 IDT 2022","Wed May 25 17:55:00 IDT 2022","768","Server","testApi","Test_login","","","test_Login_Invalid_When_Email_Invalid",""
-"broken","Wed May 25 17:55:00 IDT 2022","Wed May 25 18:16:36 IDT 2022","1296210","Server","testApi","Test_login","","","test_Login_Invalid_When_Password_Invalid",""
-"passed","Wed May 25 18:16:37 IDT 2022","Wed May 25 18:16:38 IDT 2022","1247","Server","testApi","Test_login","","","test_Login_Invalid_When_Email_field_Null",""
